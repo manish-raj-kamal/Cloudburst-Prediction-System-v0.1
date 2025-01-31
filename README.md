@@ -1,6 +1,6 @@
 # Cloudburst-Prediction-System
 Click here to visit website:
-[https://manish-raj-kamal.github.io/Cloudburst-Prediction-System/](https://manish-raj-kamal.github.io/Cloudburst-Prediction-System-v0.1/)
+https://manish-raj-kamal.github.io/Cloudburst-Prediction-System-v0.1/
 
 Problem statement number-CBP03
 Problem title- Cloudburst prediction system
